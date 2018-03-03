@@ -1,0 +1,255 @@
+1
+00:00:00,000 --> 00:00:04,000
+Esta aula será dividida
+em três partes.
+
+2
+00:00:04,033 --> 00:00:06,000
+-Aprendizagem supervisionada...
+-Isso.
+
+3
+00:00:06,033 --> 00:00:08,868
+...aprendizagem não supervisionada
+e aprendizagem por reforço.
+
+4
+00:00:09,434 --> 00:00:12,133
+O que você acha que é
+a aprendizagem supervisionada?
+
+5
+00:00:12,167 --> 00:00:18,067
+Acho que aprendizagem supervisionada
+é quando pegamos dados rotulados,
+
+6
+00:00:18,100 --> 00:00:22,934
+e obtemos informações deles
+para rotular novos conjuntos de dados.
+
+7
+00:00:22,968 --> 00:00:24,133
+Acho justo.
+
+8
+00:00:24,167 --> 00:00:26,300
+Chamo isso
+de aproximação de função.
+
+9
+00:00:26,334 --> 00:00:28,634
+Vamos a um exemplo
+de aprendizagem supervisionada.
+
+10
+00:00:28,667 --> 00:00:31,267
+Vou fornecer
+os dados de entrada e de saída.
+
+11
+00:00:31,300 --> 00:00:34,400
+Vou fornecer o par e quero
+que adivinhe qual função foi usada.
+
+12
+00:00:34,434 --> 00:00:35,601
+-Certo.
+-Está bem?
+
+13
+00:00:35,634 --> 00:00:36,667
+Muito bem.
+1 e 1.
+
+14
+00:00:37,734 --> 00:00:38,701
+2 e 4.
+
+15
+00:00:38,734 --> 00:00:41,000
+Espera.
+A entrada é 1 e a saída é 1?
+
+16
+00:00:41,033 --> 00:00:42,868
+-Isso.
+-Depois, a entrada é 2 e a saída é 4?
+
+17
+00:00:42,901 --> 00:00:44,534
+-Exato.
+-Está bem. Estou entendendo.
+
+18
+00:00:44,567 --> 00:00:46,367
+3 e 9.
+
+19
+00:00:46,400 --> 00:00:47,567
+-Certo.
+-4 e 16.
+
+20
+00:00:47,601 --> 00:00:49,033
+-Boa.
+-5 e 25.
+
+21
+00:00:49,067 --> 00:00:50,334
+6 e 36.
+
+22
+00:00:50,367 --> 00:00:52,133
+-7 e 49.
+-Ótimo.
+
+23
+00:00:52,167 --> 00:00:54,701
+-É um conjunto de dados bacana.
+-É mesmo. Qual é a função?
+
+24
+00:00:54,734 --> 00:00:57,167
+-É um quadrado bacana.
+-Exatamente.
+
+25
+00:00:57,200 --> 00:00:58,167
+Talvez.
+
+26
+00:00:58,200 --> 00:00:59,834
+Se acredita mesmo nisso,
+
+27
+00:00:59,868 --> 00:01:02,133
+então me diga, se tivermos uma entrada 10,
+qual será a saída?
+
+28
+00:01:02,167 --> 00:01:03,868
+-100.
+-Estará certo
+
+29
+00:01:03,901 --> 00:01:06,701
+se descobrirmos que a função
+é x ao quadrado.
+
+30
+00:01:06,734 --> 00:01:09,767
+Na verdade, não sabemos se a função
+é x ao quadrado.
+
+31
+00:01:09,801 --> 00:01:11,634
+-Não temos certeza.
+-Eu tenho certeza.
+
+32
+00:01:11,667 --> 00:01:12,300
+-É mesmo?
+-Bem...
+
+33
+00:01:12,334 --> 00:01:13,601
+De onde veio essa certeza?
+
+34
+00:01:13,634 --> 00:01:17,334
+Veio de falar com você
+durante muito tempo.
+
+35
+00:01:18,400 --> 00:01:19,767
+E da matemática.
+
+36
+00:01:19,801 --> 00:01:20,767
+E da matemática.
+
+37
+00:01:20,767 --> 00:01:23,434
+-Bem, eu vou...
+-Não pode afirmar que estou errado.
+
+38
+00:01:23,467 --> 00:01:24,501
+Você está errado.
+
+39
+00:01:24,534 --> 00:01:25,934
+-Afirmei.
+-Você afirmou que estou errado.
+
+40
+00:01:25,968 --> 00:01:28,267
+Você conversou comigo por muito tempo
+e... matemática.
+
+41
+00:01:28,300 --> 00:01:29,400
+-Eu concordo com você.
+-Certo.
+
+42
+00:01:29,434 --> 00:01:32,667
+Mas vou alegar
+que você presumiu isso.
+
+43
+00:01:32,701 --> 00:01:34,100
+Apesar de ser um cientista,
+
+44
+00:01:34,100 --> 00:01:37,334
+você presumiu que ao obtermos
+uma entrada 10, a saída é 100.
+
+45
+00:01:38,100 --> 00:01:39,200
+Realmente.
+Eu concordo.
+
+46
+00:01:39,234 --> 00:01:40,434
+Qual é a presunção?
+
+47
+00:01:40,467 --> 00:01:42,701
+Pelo que você me disse,
+
+48
+00:01:42,734 --> 00:01:46,100
+esta teoria é consistente
+com outros mapas de entrada e saída.
+
+49
+00:01:46,133 --> 00:01:48,868
+Por exemplo,
+depois da entrada 10 vem a 11.
+
+50
+00:01:50,934 --> 00:01:53,601
+-Sim.
+-Ou é x ao quadrado até 10.
+
+51
+00:01:53,634 --> 00:01:55,367
+-Isso seria maldade.
+-Seria maldade.
+
+52
+00:01:55,400 --> 00:01:57,634
+Mas pela lógica
+não é impossível.
+
+53
+00:01:57,667 --> 00:01:59,067
+Ou seria a mediana?
+
+54
+00:02:00,100 --> 00:02:02,300
+Muito obrigado.
+Eu guardei para o final.

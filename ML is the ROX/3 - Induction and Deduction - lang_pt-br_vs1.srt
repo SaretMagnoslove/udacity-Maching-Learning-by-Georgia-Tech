@@ -1,0 +1,403 @@
+1
+00:00:00,000 --> 00:00:03,033
+O que fazemos para chegar ao resultado
+e que acabamos fazendo
+
+2
+00:00:03,067 --> 00:00:05,133
+na aprendizagem supervisionada
+e na aproximação de funções,
+
+3
+00:00:05,167 --> 00:00:07,801
+são algumas pressuposições fundamentais
+sobre o mundo, certo?
+
+4
+00:00:07,834 --> 00:00:10,334
+Nós presumimos que a função
+é bem-comportada,
+
+5
+00:00:10,367 --> 00:00:15,334
+consistente com os dados obtidos
+e generalizamos a partir disso.
+
+6
+00:00:15,367 --> 00:00:19,100
+O maior problema no aprendizado de máquina
+é a generalização.
+
+7
+00:00:19,133 --> 00:00:23,033
+Acho que sei a origem
+do problema, Michael.
+
+8
+00:00:23,067 --> 00:00:26,801
+-Me interrompa se você discordar.
+-Discordo! Foi cedo demais! Desculpa.
+
+9
+00:00:26,834 --> 00:00:28,000
+É o viés.
+
+10
+00:00:28,033 --> 00:00:30,167
+Principalmente
+o viés confirmatório.
+
+11
+00:00:30,200 --> 00:00:31,100
+Viés confirmatório.
+
+12
+00:00:31,133 --> 00:00:34,667
+Todo aprendizado de máquina ou,
+pelo menos, a aprendizagem supervisionada,
+
+13
+00:00:34,701 --> 00:00:37,300
+usa a indução
+em vez da dedução.
+
+14
+00:00:37,334 --> 00:00:39,067
+Entendi.
+O problema da indução
+
+15
+00:00:39,100 --> 00:00:41,634
+é que criamos uma regra
+a partir de um exemplo.
+
+16
+00:00:41,667 --> 00:00:44,400
+Exato. Pegamos
+algo específico e generalizamos.
+
+17
+00:00:44,434 --> 00:00:46,367
+Em oposição,
+o que é a dedução?
+
+18
+00:00:47,601 --> 00:00:48,200
+É o contrário.
+
+19
+00:00:48,234 --> 00:00:51,234
+Observamos a regra
+e aplicamos a exemplos específicos
+
+20
+00:00:51,267 --> 00:00:53,200
+ou seja,
+é o raciocínio lógico.
+
+21
+00:00:53,234 --> 00:00:55,434
+Isso. E no início
+da inteligência artificial
+
+22
+00:00:55,467 --> 00:00:56,734
+o que mais usávamos
+era o método dedutivo,
+
+23
+00:00:56,767 --> 00:00:58,901
+com a programação lógica e afins,
+
+24
+00:00:58,934 --> 00:01:00,167
+onde há regras específicas
+
+25
+00:01:00,200 --> 00:01:03,334
+e apenas deduzimos
+o que segue aquelas regras.
+
+26
+00:01:03,367 --> 00:01:06,167
+Por exemplo,
+suponha que A implica em B.
+
+27
+00:01:06,200 --> 00:01:08,167
+Esta é uma regra universal.
+
+28
+00:01:08,200 --> 00:01:09,534
+E eu digo A.
+
+29
+00:01:09,567 --> 00:01:11,701
+Se você sabe que A implica em B
+é uma regra universal,
+
+30
+00:01:11,734 --> 00:01:13,801
+e eu digo A,
+o que você sabe?
+
+31
+00:01:14,300 --> 00:01:16,234
+Que A implica em B.
+
+32
+00:01:16,267 --> 00:01:19,534
+O que podemos deduzir disso?
+
+33
+00:01:20,868 --> 00:01:22,234
+-B!
+-B.
+
+34
+00:01:22,267 --> 00:01:25,601
+Se você sabe que A implica em B
+e você tem A, então implica em B.
+
+35
+00:01:25,634 --> 00:01:27,167
+-Certo.
+-Acabamos de dizer isso.
+
+36
+00:01:28,200 --> 00:01:29,033
+-Bom...
+-Isso é dedução.
+
+37
+00:01:29,067 --> 00:01:31,534
+É dedução, mas o que fizemos
+não foi dedução.
+
+38
+00:01:31,567 --> 00:01:36,167
+Quando perguntei as saídas de 1 que era 1, 2 que era 4,
+3 que era 9, 4 que era 16 e por aí vai.
+
+39
+00:01:36,200 --> 00:01:37,300
+-Sei.
+-Nós usamos indução.
+
+40
+00:01:37,334 --> 00:01:38,100
+Foi indução.
+
+41
+00:01:38,133 --> 00:01:41,868
+Um exemplo de indução seria:
+o Sol nasceu ontem?
+
+42
+00:01:41,901 --> 00:01:43,501
+-Nasceu.
+-O Sol nasceu anteontem?
+
+43
+00:01:43,534 --> 00:01:45,067
+-Nasceu.
+-O Sol nasceu no dia anterior?
+
+44
+00:01:46,701 --> 00:01:48,067
+Eu acordei tarde.
+
+45
+00:01:48,100 --> 00:01:49,200
+O Sol nasceu no dia anterior?
+
+46
+00:01:49,234 --> 00:01:50,334
+-Nasceu!
+-Nasceu.
+
+47
+00:01:50,334 --> 00:01:51,567
+Então, o Sol nasce todo dia.
+
+48
+00:01:51,601 --> 00:01:52,934
+O Sol vai nascer amanhã?
+
+49
+00:01:53,634 --> 00:01:54,601
+Eu espero que sim.
+
+50
+00:01:54,634 --> 00:01:57,033
+Todos esperamos
+e vamos agir como se fosse,
+
+51
+00:01:57,067 --> 00:02:00,334
+caso contrário, teríamos
+que fazer várias coisas
+
+52
+00:02:00,367 --> 00:02:02,234
+em vez de ficar sentados neste estúdio
+gravando uma entrevista.
+
+53
+00:02:02,267 --> 00:02:03,667
+Acho que devemos
+avisar às plantas.
+
+54
+00:02:04,200 --> 00:02:05,567
+Acho que as plantas
+não vão se importar.
+
+55
+00:02:05,601 --> 00:02:07,100
+Vão, sim.
+Elas precisam do Sol.
+
+56
+00:02:07,133 --> 00:02:08,667
+Todos precisamos
+do Sol, Michael.
+
+57
+00:02:09,434 --> 00:02:11,133
+A ideia principal
+
+58
+00:02:11,167 --> 00:02:14,267
+é que a indução
+e o viés confirmatório são cruciais.
+
+59
+00:02:14,300 --> 00:02:16,601
+Falaremos
+sobre tudo isso neste curso.
+
+60
+00:02:16,634 --> 00:02:18,367
+-Está bem.
+-Esta é uma noção fundamental
+
+61
+00:02:18,400 --> 00:02:20,167
+para a aprendizagem supervisionada
+e o aprendizado de máquina.
+
+62
+00:02:20,200 --> 00:02:21,234
+-Eu concordo.
+-Concorda?
+
+63
+00:02:21,267 --> 00:02:23,200
+Estamos de acordo.
+Isso é aprendizagem supervisionada.
+
+64
+00:02:23,234 --> 00:02:25,667
+Podemos definir a aprendizagem supervisionada
+com palavras difíceis,
+
+65
+00:02:25,701 --> 00:02:27,767
+mas, no final das contas,
+é a aproximação de função.
+
+66
+00:02:27,801 --> 00:02:29,801
+Temos que pegar vários exemplos
+
+67
+00:02:29,834 --> 00:02:34,000
+e usar uma função que generalize
+além dos dados que podemos ver.
+
+68
+00:02:34,033 --> 00:02:35,901
+Por que não chamamos
+de indução da função?
+
+69
+00:02:37,167 --> 00:02:38,601
+Porque decidiram chamar
+de aprendizagem supervisionada.
+
+70
+00:02:38,634 --> 00:02:39,801
+-Bem, há uma...
+-Não, não. Desculpa.
+
+71
+00:02:39,834 --> 00:02:43,234
+Você disse que a aprendizagem
+supervisionada é a aproximação de função.
+
+72
+00:02:43,267 --> 00:02:46,534
+Por que de não dizer que a aprendizagem
+supervisionada é indução da função?
+
+73
+00:02:46,567 --> 00:02:48,767
+-Em vez de aproximação de função?
+-É.
+
+74
+00:02:48,801 --> 00:02:49,367
+Está bem.
+
+75
+00:02:49,400 --> 00:02:52,033
+-É uma...
+-Indução aproximada da função.
+
+76
+00:02:53,200 --> 00:02:55,267
+Ou indução de aproximação de...
+
+77
+00:02:55,300 --> 00:02:56,968
+-De funções aproximadas?
+-Algo parecido.
+
+78
+00:02:57,000 --> 00:02:59,133
+Não queremos induzir
+funções aproximadas,
+
+79
+00:02:59,167 --> 00:03:00,467
+queremos induzir a função real.
+
+80
+00:03:00,501 --> 00:03:01,767
+-Mas às vezes não é possível.
+-É...
+
+81
+00:03:01,801 --> 00:03:06,200
+Porque, às vezes, achamos
+que a função é quadrática, mas não é.
+
+82
+00:03:06,234 --> 00:03:08,334
+Tem isso escrito
+em uma placa na minha casa.
+
+83
+00:03:08,367 --> 00:03:09,901
+-Sério?
+-Não.
+
+84
+00:03:09,934 --> 00:03:10,801
+Imaginei que não.
+
+85
+00:03:10,834 --> 00:03:12,200
+Bom, isto é
+aprendizagem supervisionada.

@@ -1,0 +1,451 @@
+1
+00:00:00,000 --> 00:00:02,334
+J� falamos sobre aprendizagem supervisionada
+e aprendizagem n�o supervisionada.
+
+2
+00:00:02,367 --> 00:00:05,000
+Isso � �timo!
+S� faltou a aprendizagem por refor�o.
+
+3
+00:00:05,501 --> 00:00:07,467
+Aprendizagem por refor�o
+� o que n�s dois fazemos
+
+4
+00:00:07,501 --> 00:00:11,000
+Michael faz um pouquinho
+de aprendizagem por refor�o.
+
+5
+00:00:11,033 --> 00:00:14,200
+Quantos artigos voc� publicou
+sobre isso? Todos eles.
+
+6
+00:00:14,234 --> 00:00:15,801
+J� escrevi v�rios.
+
+7
+00:00:16,300 --> 00:00:19,367
+Ele escreveu uns 100 artigos
+sobre aprendizagem por refor�o
+
+8
+00:00:19,400 --> 00:00:24,434
+e publicou com uns colegas
+um artigo com um �timo resumo
+
+9
+00:00:24,467 --> 00:00:28,167
+que mostrou a todos nos anos 1990
+o que era aprendizagem por refor�o.
+
+10
+00:00:28,200 --> 00:00:30,601
+-Isso foi h� 112 anos.
+-Em 1992, eu acho.
+
+11
+00:00:30,634 --> 00:00:33,300
+As pessoas acham que algu�m
+deveria escrever um novo artigo
+
+12
+00:00:33,334 --> 00:00:35,834
+porque o antigo
+j� foi escrito h� muito tempo.
+
+13
+00:00:35,868 --> 00:00:37,701
+Mas h� livros
+sobre o aprendizado de m�quina.
+
+14
+00:00:37,734 --> 00:00:38,934
+-� verdade.
+-Essa �rea � bem popular.
+
+15
+00:00:38,968 --> 00:00:41,868
+Por isso que trabalhamos nisso.
+Michael gosta de comprovar as coisas.
+
+16
+00:00:41,901 --> 00:00:44,033
+N�o � por isso
+que estou nessa �rea.
+
+17
+00:00:44,067 --> 00:00:45,567
+Espera. Como assim?
+
+18
+00:00:45,601 --> 00:00:48,000
+Voc� disse que � uma �rea popular
+e que por isso trabalhamos nela.
+
+19
+00:00:48,033 --> 00:00:49,467
+N�o, n�o.
+Eu disse isso?
+
+20
+00:00:49,501 --> 00:00:51,100
+-Foi o que eu ouvi.
+-N�o foi o que eu quis dizer.
+
+21
+00:00:51,133 --> 00:00:52,601
+-Vamos voltar o v�deo e ver.
+-� uma �rea popular...
+
+22
+00:00:52,634 --> 00:00:54,100
+Vamos falar de novo,
+eu n�o quis dizer isso.
+
+23
+00:00:54,133 --> 00:00:56,567
+� uma �rea muito popular.
+Talvez seja por sua causa, Michael.
+
+24
+00:00:56,601 --> 00:00:59,267
+Eu acho que n�o.
+Quando eu estava na gradua��o,
+
+25
+00:00:59,300 --> 00:01:01,601
+eu achava que o que realmente
+queria entender...
+
+26
+00:01:01,634 --> 00:01:03,400
+Eu gostava de intelig�ncia artificial
+e tudo que ela engloba,
+
+27
+00:01:03,434 --> 00:01:08,434
+mas eu queria entender como podemos aprender
+a ser melhores atrav�s da experi�ncia?
+
+28
+00:01:08,467 --> 00:01:10,467
+Eu criei um programa
+que joga jogos da velha
+
+29
+00:01:10,501 --> 00:01:14,100
+e quero que o programa
+seja muito bom nesse jogo
+
+30
+00:01:14,133 --> 00:01:19,100
+porque sempre me interessei nos problemas
+pr�ticos mais impactantes � sociedade.
+
+31
+00:01:19,133 --> 00:01:22,267
+Acho que o jogo da velha
+� uma boa generaliza��o para a fome mundial.
+
+32
+00:01:22,300 --> 00:01:25,267
+Acaba sendo.
+Foi isso que me interessou.
+
+33
+00:01:25,300 --> 00:01:27,734
+Fiquei muito tempo sem nem saber
+qual era o nome disso.
+
+34
+00:01:27,767 --> 00:01:29,634
+Eu comecei a estudar
+a aprendizagem por refor�o
+
+35
+00:01:29,667 --> 00:01:32,133
+e a� descobri que era
+interessante e popular.
+
+36
+00:01:33,100 --> 00:01:36,767
+Eu n�o queria dizer que estudamos
+esta ci�ncia porque � popular.
+
+37
+00:01:36,801 --> 00:01:38,868
+-E sim porque nos interessamos nisso.
+-Exato.
+
+38
+00:01:38,901 --> 00:01:41,467
+Eu me interessei na
+aprendizagem por refor�o
+
+39
+00:01:41,501 --> 00:01:44,834
+porque engloba de alguma forma
+tudo com que eu me importo.
+
+40
+00:01:44,868 --> 00:01:47,367
+Minha especialidade
+era intelig�ncia artificial
+
+41
+00:01:47,400 --> 00:01:49,167
+e me importo
+em modelar pessoas.
+
+42
+00:01:49,200 --> 00:01:52,067
+Quero desenvolver agentes inteligentes
+que v�o viver em um mundo
+
+43
+00:01:52,100 --> 00:01:55,968
+com outros agentes inteligentes,
+at� centenas de milhares deles.
+
+44
+00:01:56,000 --> 00:01:57,534
+Talvez alguns sejam humanos
+
+45
+00:01:57,567 --> 00:02:00,567
+e eu tive que prever o que v�o
+fazer depois de algum tempo.
+
+46
+00:02:00,601 --> 00:02:02,968
+De um ponto de vista t�cnico,
+
+47
+00:02:03,000 --> 00:02:06,267
+se aprendizagem supervisionada
+� a aproxima��o de fun��es
+
+48
+00:02:06,300 --> 00:02:08,800
+e aprendizagem
+n�o supervisionada �...
+
+49
+00:02:08,834 --> 00:02:10,601
+-Concisa.
+-...descri��o concisa, compacta,
+
+50
+00:02:10,633 --> 00:02:13,868
+qual � a diferen�a entre aprendizagem
+por refor�o e as outras duas?
+
+51
+00:02:13,901 --> 00:02:15,434
+Principalmente
+aprendizagem supervisionada.
+
+52
+00:02:15,467 --> 00:02:17,567
+Em geral,
+a aprendizagem supervisionada,
+
+53
+00:02:17,601 --> 00:02:19,467
+quero dizer, aprendizagem por refor�o
+� descrita
+
+54
+00:02:19,501 --> 00:02:21,534
+como aprendizagem
+de recompensa adiada.
+
+55
+00:02:21,567 --> 00:02:23,934
+Em vez de receber feedback
+como na aprendizagem supervisionada
+
+56
+00:02:23,968 --> 00:02:25,467
+que mostra
+o que voc� deve fazer,
+
+57
+00:02:25,501 --> 00:02:27,901
+e o feedback que recebemos
+na aprendizagem n�o supervisionada que �...
+
+58
+00:02:28,634 --> 00:02:30,534
+o feedback
+da aprendizagem por refor�o
+
+59
+00:02:30,567 --> 00:02:34,100
+pode vir muito depois
+da sua tomada de decis�o.
+
+60
+00:02:34,133 --> 00:02:36,734
+Um exemplo bom e f�cil disso
+
+61
+00:02:36,767 --> 00:02:38,467
+seria seu programa
+de jogo da velha, n�o �?
+
+62
+00:02:38,501 --> 00:02:42,334
+Vamos supor que coloquei
+um X no meio do jogo da velha,
+
+63
+00:02:42,367 --> 00:02:45,367
+depois voc� coloca
+um O aqui.
+
+64
+00:02:45,400 --> 00:02:48,567
+-Vou colocar um X aqui.
+-Boa!
+
+65
+00:02:48,601 --> 00:02:51,267
+A� voc�, por idiotice,
+coloca um O no centro.
+
+66
+00:02:51,300 --> 00:02:54,033
+E com isso eu coloco
+um X aqui e ganho.
+
+67
+00:02:54,067 --> 00:02:56,267
+-Certo.
+-O mais interessante �
+
+68
+00:02:56,300 --> 00:03:00,200
+que eu s� contei o que ia acontecer
+no final quando disse que o X ia ganhar.
+
+69
+00:03:00,234 --> 00:03:03,634
+Eu sei que cometi um erro
+em algum lugar,
+
+70
+00:03:03,667 --> 00:03:05,033
+mas n�o sei onde exatamente.
+
+71
+00:03:05,067 --> 00:03:08,267
+Talvez eu tenha que rever o jogo
+na minha mente
+
+72
+00:03:08,300 --> 00:03:10,767
+para descobrir onde me desconcentrei
+e o que fiz de errado.
+
+73
+00:03:10,801 --> 00:03:12,400
+Na generalidade
+da aprendizagem por refor�o,
+
+74
+00:03:12,434 --> 00:03:13,767
+talvez voc� n�o tenha errado.
+
+75
+00:03:13,801 --> 00:03:16,200
+Talvez os jogos
+sejam sempre assim,
+
+76
+00:03:16,234 --> 00:03:18,901
+mas voc� quer saber quais foram
+seus movimentos essenciais.
+
+77
+00:03:18,934 --> 00:03:21,634
+Se fosse um problema de aprendizagem
+supervisionada e eu colocasse um X aqui,
+
+78
+00:03:21,667 --> 00:03:24,267
+ele colocaria um O ali
+e saberia que foi uma boa jogada.
+
+79
+00:03:24,300 --> 00:03:26,767
+Eu colocaria o X aqui
+e, quando ele colocasse o O ali,
+
+80
+00:03:26,801 --> 00:03:29,667
+saberia que foi uma jogada ruim,
+o O tem que ir ali.
+
+81
+00:03:29,701 --> 00:03:32,701
+Ele teria dito onde ele deveria
+ter colocado o O.
+
+82
+00:03:32,734 --> 00:03:35,534
+Mas aqui ele s� recebe
+um sinal
+
+83
+00:03:35,567 --> 00:03:38,734
+dizendo que fez algo certo,
+que fez algo errado.
+
+84
+00:03:38,767 --> 00:03:41,868
+E s�o sempre sinais relativos
+aos que ele j� recebeu antes.
+
+85
+00:03:41,901 --> 00:03:44,634
+A aprendizagem por refor�o
+� um pouco mais dif�cil
+
+86
+00:03:44,667 --> 00:03:46,701
+porque ningu�m diz
+o que voc� deve fazer.
+
+87
+00:03:46,734 --> 00:03:48,467
+Voc� tem
+que descobrir sozinho.
+
+88
+00:03:48,501 --> 00:03:51,968
+� como jogar um jogo
+sem saber as regras.
+
+89
+00:03:54,801 --> 00:03:56,701
+Ou como ganhar
+ou perder o jogo.
+
+90
+00:03:56,734 --> 00:03:59,167
+Mas que te avisam
+se voc� ganhou ou perdeu.
+
+91
+00:03:59,734 --> 00:04:01,701
+-Certo. Agora...
+-�s vezes eu me sinto assim.
+
+92
+00:04:02,634 --> 00:04:03,767
+Eu sei.

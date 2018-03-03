@@ -1,0 +1,316 @@
+1
+00:00:00,000 --> 00:00:02,133
+-Oi, Michael.
+-Oi, Charles. Tudo bem?
+
+2
+00:00:02,167 --> 00:00:04,634
+-Tudo certo e você?
+-Tudo bem.
+
+3
+00:00:04,667 --> 00:00:05,934
+Que bom.
+
+4
+00:00:05,934 --> 00:00:09,934
+Hoje vamos falar sobre a filosofia
+do aprendizado de máquina.
+
+5
+00:00:09,968 --> 00:00:11,601
+Eu odeio filosofia.
+
+6
+00:00:11,601 --> 00:00:14,534
+Apesar de ter doutorado
+em filosofia, também não gosto.
+
+7
+00:00:14,567 --> 00:00:15,767
+Isso é impressionante!
+
+8
+00:00:15,767 --> 00:00:17,133
+Você não tem doutorado
+em filosofia também?
+
+9
+00:00:17,167 --> 00:00:19,367
+-Tenho. É impressionante.
+-É verdade.
+
+10
+00:00:19,400 --> 00:00:23,934
+Queríamos explicar melhor o porquê
+de termos escolhido este tipo de aula,
+
+11
+00:00:23,968 --> 00:00:27,601
+explicar cada parte da aula
+e talvez discutir um pouco
+
+12
+00:00:27,634 --> 00:00:30,334
+sobre o que você vai aprender
+neste curso.
+
+13
+00:00:30,367 --> 00:00:31,434
+-Pode ser assim?
+-Pode.
+
+14
+00:00:31,467 --> 00:00:34,334
+Certo. Antes de começamos,
+quero te agradecer
+
+15
+00:00:34,367 --> 00:00:38,467
+por ter vindo até Atlanta para dar aula
+comigo neste lindo estúdio.
+
+16
+00:00:38,501 --> 00:00:41,100
+Estou feliz por estar aqui.
+Obrigado pelo convite.
+
+17
+00:00:41,133 --> 00:00:43,000
+Não, obrigado pela presença,
+Michael.
+
+18
+00:00:43,033 --> 00:00:44,667
+Obrigado por ter me pedido
+para elaborar este curso.
+
+19
+00:00:44,701 --> 00:00:45,734
+Estou me divertindo muito.
+
+20
+00:00:45,767 --> 00:00:48,200
+O objetivo era
+darmos esta aula juntos, Michael.
+
+21
+00:00:48,234 --> 00:00:49,267
+Nós gostamos um do outro,
+
+22
+00:00:49,267 --> 00:00:51,934
+queremos que entendam isso nesta aula,
+
+23
+00:00:51,968 --> 00:00:53,501
+pois gostamos
+de aprendizado de máquina.
+
+24
+00:00:53,534 --> 00:00:57,567
+Temos muito em comum,
+mas acho que não concordamos
+
+25
+00:00:57,601 --> 00:01:00,033
+com o que é mais importante
+em aprendizado de máquina
+
+26
+00:01:00,067 --> 00:01:02,467
+-e o porquê de fazermos certas coisas.
+-Tudo bem.
+
+27
+00:01:02,501 --> 00:01:04,033
+Michael,
+acho que as pessoas lá fora
+
+28
+00:01:04,066 --> 00:01:06,667
+diriam que você é
+mais teórico do que eu.
+
+29
+00:01:06,701 --> 00:01:08,334
+-Teoricamente, sim.
+-Pois é.
+
+30
+00:01:08,367 --> 00:01:10,801
+E eu sou mais prático
+do que você.
+
+31
+00:01:10,834 --> 00:01:13,167
+-Praticamente.
+-Ao menos na prática.
+
+32
+00:01:13,200 --> 00:01:16,167
+Esperamos resolver um pouco
+desta tensão durante as aulas.
+
+33
+00:01:16,200 --> 00:01:19,000
+Mas para entender esta tensão,
+
+34
+00:01:19,033 --> 00:01:20,868
+você tem que saber o conceito
+de aprendizado de máquina.
+
+35
+00:01:20,901 --> 00:01:22,634
+-Então, Michael.
+-Diga.
+
+36
+00:01:22,667 --> 00:01:25,334
+-O que é o aprendizado de máquina?
+-É a forma como comprovamos os teoremas.
+
+37
+00:01:26,067 --> 00:01:27,200
+-Não.
+-Não.
+
+38
+00:01:27,234 --> 00:01:28,634
+Eu não diria que é isso.
+
+39
+00:01:28,667 --> 00:01:32,000
+Mas comprovar teoremas é importante
+no aprendizado de máquina.
+
+40
+00:01:32,033 --> 00:01:33,000
+Eu concordo.
+
+41
+00:01:33,033 --> 00:01:34,467
+-Certo.
+-Nós pensamos igual.
+
+42
+00:01:34,501 --> 00:01:37,334
+Mais ou menos.
+O que é o aprendizado de máquina?
+
+43
+00:01:37,367 --> 00:01:38,634
+O que é o aprendizado de máquina?
+
+44
+00:01:38,667 --> 00:01:39,567
+Quero uma definição.
+
+45
+00:01:39,601 --> 00:01:44,100
+É a estatística computacional.
+
+46
+00:01:44,133 --> 00:01:45,534
+O que achou
+dessa definição?
+
+47
+00:01:45,567 --> 00:01:48,100
+É uma definição que está
+errada por muitos motivos.
+
+48
+00:01:48,133 --> 00:01:50,367
+Porém, muitas pessoas
+concordam com essa afirmação.
+
+49
+00:01:50,400 --> 00:01:53,701
+Diriam que o aprendizado de máquina
+é apenas estatística aplicada.
+
+50
+00:01:53,734 --> 00:01:56,534
+Não é estatística aplicada,
+é estatística computacional.
+
+51
+00:01:56,567 --> 00:01:58,701
+Estatística aplicada
+a computação.
+
+52
+00:01:59,634 --> 00:02:01,400
+Eu não gosto
+dessa definição.
+
+53
+00:02:01,434 --> 00:02:04,000
+Acho que é muito limitada.
+
+54
+00:02:04,033 --> 00:02:07,000
+Acho que o aprendizado de máquina
+é uma noção abrangente
+
+55
+00:02:07,033 --> 00:02:10,501
+da construção de artefatos -
+artefatos computacionais, basicamente -
+
+56
+00:02:10,533 --> 00:02:13,467
+que aprendem com o tempo
+e experiência.
+
+57
+00:02:13,501 --> 00:02:17,133
+O mais importante não é
+a construção destes artefatos,
+
+58
+00:02:17,167 --> 00:02:20,200
+mas a matemática,
+a ciência,
+
+59
+00:02:20,234 --> 00:02:22,968
+a engenharia
+e a computação que os origina.
+
+60
+00:02:23,000 --> 00:02:26,434
+Tudo que faz parte da construção
+dos artefatos inteligentes
+
+61
+00:02:26,467 --> 00:02:29,334
+que precisam aprender mais
+com o passar do tempo.
+
+62
+00:02:29,367 --> 00:02:33,601
+-Acredita nisso?
+-Sim, nós pegamos dados, analisamos,
+
+63
+00:02:33,634 --> 00:02:35,067
+tentamos tirar conclusões
+a partir deles
+
+64
+00:02:35,100 --> 00:02:40,901
+e usamos vários tipos
+de estruturas computacionais para isso.
+
+65
+00:02:40,934 --> 00:02:42,901
+Então
+é estatística computacional.
+
+66
+00:02:43,567 --> 00:02:45,667
+Não acho que isso seja
+estatística computacional.
